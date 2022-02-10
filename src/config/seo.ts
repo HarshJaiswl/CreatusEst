@@ -1,6 +1,6 @@
 import { DefaultSeoProps } from "next-seo";
 
-export const baseUrl = "https://netflix-clone-martstech.vercel.app";
+export const baseUrl = "https://creatus-est-8vvx5evng-harshjaiswl.vercel.app/";
 
 export const defaultSEO: DefaultSeoProps = {
   title: "Netflix Clone",
